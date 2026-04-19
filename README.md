@@ -56,7 +56,7 @@ This repository is a curated starting point for power engineers to find commonly
 
 | Standard | Scope | Relevant GitHub Repositories |
 |---|---|---|
-| IEC 61000-4-30 | Power quality measurement methods | [EPRI/LoadShapeLibrary](https://github.com/epri-dev/LoadShapeLibrary) |
+| IEC 61000-4-30 | Power quality measurement methods | [epri-dev/LoadShapeLibrary](https://github.com/epri-dev/LoadShapeLibrary) |
 | IEC 61000-4-7 | Harmonics and interharmonics instrumentation | [GitHub search: IEC 61000-4-7 harmonics](https://github.com/search?q=IEC+61000-4-7+harmonics&type=repositories) |
 | IEEE 1459 | Definitions for measurement of electric power quantities | [GitHub search: IEEE 1459 power measurement](https://github.com/search?q=IEEE+1459+power+measurement&type=repositories) |
 | ANSI C12 family | Electricity metering standards | [openenergymonitor/EmonLib](https://github.com/openenergymonitor/EmonLib) |
@@ -66,7 +66,7 @@ This repository is a curated starting point for power engineers to find commonly
 | Standard | Scope | Relevant GitHub Repositories |
 |---|---|---|
 | IEEE 1547.1 | Conformance testing procedures for DER interconnection | [NREL/ditto](https://github.com/NREL/ditto) |
-| IEC 61400 series | Wind turbine design and grid compliance | [NREL/OpenFAST](https://github.com/OpenFAST/openfast) |
+| IEC 61400 series | Wind turbine design and grid compliance | [OpenFAST/openfast](https://github.com/OpenFAST/openfast) |
 | IEC 61724 | PV system performance monitoring | [pvlib/pvlib-python](https://github.com/pvlib/pvlib-python) |
 | UL 1741 / IEEE 2800 (utility practice context) | Inverter-based resource interconnection and grid support | [GitHub search: IEEE 2800 inverter models](https://github.com/search?q=IEEE+2800+inverter+grid+model&type=repositories) |
 
