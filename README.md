@@ -13,7 +13,7 @@ This repository is a curated starting point for power engineers to find commonly
 |---|---|---|
 | IEC 61850 | Substation communication networks and systems | [openiec61850/openiec61850](https://github.com/openiec61850/openiec61850), [mz-automation/libiec61850](https://github.com/mz-automation/libiec61850) |
 | IEEE C37.2 / C37 series | Device function numbers, switchgear, breaker and relay practices | [GitHub topic search: relay protection](https://github.com/search?q=IEEE+C37+relay+protection&type=repositories) |
-| IEEE 242 (Buff Book) | Protection and coordination in industrial/commercial systems | [GitHub search: IEEE 242 protection coordination](https://github.com/search?q=IEEE+242+protection+coordination&type=repositories) |
+| IEEE 242 (Gray Book) | Protection and coordination in industrial/commercial systems | [GitHub search: IEEE 242 protection coordination](https://github.com/search?q=IEEE+242+protection+coordination&type=repositories) |
 | IEC 60255 | Measuring relays and protection equipment | [GitHub search: IEC 60255 relay testing](https://github.com/search?q=IEC+60255+relay+testing&type=repositories) |
 
 ## 2) Transmission Planning & Stability Engineers
