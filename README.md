@@ -13,7 +13,7 @@ This repository is a curated starting point for power engineers to find commonly
 |---|---|---|
 | IEC 61850 | Substation communication networks and systems | [openiec61850/openiec61850](https://github.com/openiec61850/openiec61850), [mz-automation/libiec61850](https://github.com/mz-automation/libiec61850) |
 | IEEE C37.2 / C37 series | Device function numbers, switchgear, breaker and relay practices | [GitHub topic search: relay protection](https://github.com/search?q=IEEE+C37+relay+protection&type=repositories) |
-| IEEE 242 (Buff Book) | Protection and coordination in industrial/commercial systems | [tshort/OpenDSS](https://github.com/tshort/OpenDSS) |
+| IEEE 242 (Buff Book) | Protection and coordination in industrial/commercial systems | [GitHub search: IEEE 242 protection coordination](https://github.com/search?q=IEEE+242+protection+coordination&type=repositories) |
 | IEC 60255 | Measuring relays and protection equipment | [GitHub search: IEC 60255 relay testing](https://github.com/search?q=IEC+60255+relay+testing&type=repositories) |
 
 ## 2) Transmission Planning & Stability Engineers
@@ -23,7 +23,7 @@ This repository is a curated starting point for power engineers to find commonly
 | NERC TPL-001 | Transmission system planning performance requirements | [pnnl/tesp](https://github.com/pnnl/tesp), [NREL-Sienna/PowerSystems.jl](https://github.com/NREL-Sienna/PowerSystems.jl) |
 | IEEE 399 (Brown Book) | Power system analysis | [MATPOWER/matpower](https://github.com/MATPOWER/matpower), [e2nIEE/pandapower](https://github.com/e2nIEE/pandapower) |
 | IEC 60909 | Short-circuit current calculations in 3-phase AC systems | [e2nIEE/pandapower](https://github.com/e2nIEE/pandapower) |
-| IEC 60826 | Design criteria for overhead transmission lines | [WISDEM/WISDEM](https://github.com/WISDEM/WISDEM) |
+| IEC 60826 | Design criteria for overhead transmission lines | [GitHub search: IEC 60826 transmission line design](https://github.com/search?q=IEC+60826+transmission+line+design&type=repositories) |
 
 ## 3) Distribution Engineers
 
@@ -32,7 +32,7 @@ This repository is a curated starting point for power engineers to find commonly
 | IEEE 1547 | Interconnection and interoperability of DER with electric power systems | [NREL/PyDSS](https://github.com/NREL/PyDSS), [gridlab-d/gridlab-d](https://github.com/gridlab-d/gridlab-d) |
 | IEEE 519 | Harmonic control in electric power systems | [GitHub search: IEEE 519 harmonics](https://github.com/search?q=IEEE+519+harmonics&type=repositories) |
 | IEC 61000 series | EMC and power quality standards | [GitHub search: IEC 61000 power quality](https://github.com/search?q=IEC+61000+power+quality&type=repositories) |
-| EN 50160 | Voltage characteristics of electricity supplied by public distribution systems | [power-grid-lib/pglib-opf](https://github.com/power-grid-lib/pglib-opf) |
+| EN 50160 | Voltage characteristics of electricity supplied by public distribution systems | [GitHub search: EN 50160 voltage quality monitoring](https://github.com/search?q=EN+50160+voltage+quality+monitoring&type=repositories) |
 
 ## 4) Substation Design Engineers
 
@@ -56,7 +56,7 @@ This repository is a curated starting point for power engineers to find commonly
 
 | Standard | Scope | Relevant GitHub Repositories |
 |---|---|---|
-| IEC 61000-4-30 | Power quality measurement methods | [epri-dev/LoadShapeLibrary](https://github.com/epri-dev/LoadShapeLibrary) |
+| IEC 61000-4-30 | Power quality measurement methods | [GitHub search: IEC 61000-4-30 power quality measurement](https://github.com/search?q=IEC+61000-4-30+power+quality+measurement&type=repositories) |
 | IEC 61000-4-7 | Harmonics and interharmonics instrumentation | [GitHub search: IEC 61000-4-7 harmonics](https://github.com/search?q=IEC+61000-4-7+harmonics&type=repositories) |
 | IEEE 1459 | Definitions for measurement of electric power quantities | [GitHub search: IEEE 1459 power measurement](https://github.com/search?q=IEEE+1459+power+measurement&type=repositories) |
 | ANSI C12 family | Electricity metering standards | [openenergymonitor/EmonLib](https://github.com/openenergymonitor/EmonLib) |
